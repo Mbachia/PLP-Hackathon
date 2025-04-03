@@ -29,13 +29,6 @@ This is a professional portfolio website showcasing my experience in finance and
 │   ├── 📂 images/    # Profile and project images
 ├── 📄 README.md  # Documentation
 ```
-
-## Screenshots
-### Hero Section
-![Hero Section](your-image-link)
-### Experience Tabs
-![Experience Section](your-image-link)
-
 ## Author
 👤 **Simon Ngethe**  
 📧 Contact: [your-email@example.com](mailto:your-email@example.com)  
