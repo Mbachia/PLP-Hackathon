@@ -31,7 +31,7 @@ This is a professional portfolio website showcasing my experience in finance and
 ```
 ## Author
 👤 **Simon Ngethe**  
-📧 Contact: [your-email@example.com](mailto:your-email@example.com)  
+📧 Contact: [your-email@example.com](mailto:espyymbachia13@gmail.com)  
 🔗 Portfolio: [your-website.com](https://your-website.com)
 
 ---
