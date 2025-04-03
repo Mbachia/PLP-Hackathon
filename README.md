@@ -31,8 +31,8 @@ This is a professional portfolio website showcasing my experience in finance and
 ```
 ## Author
 👤 **Simon Ngethe**  
-📧 Contact: [your-email@example.com](mailto:espyymbachia13@gmail.com)  
-🔗 Portfolio: [your-website.com](https://your-website.com)
+📧 Contact: [espymbachia13@gmail.com]  
+🔗 Portfolio: [https://plp-hackathon-beta.vercel.app/]
 
 ---
 Thank you for checking out my portfolio! Feel free to fork, star ⭐, and contribute! 🚀
